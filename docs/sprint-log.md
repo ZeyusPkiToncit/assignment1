@@ -6,6 +6,7 @@
 1. Add acceptance criteria to each user story
 2. Number the requirements and link each story to one
 3. Add structure and roadmap to the README
+[One sentence: what do you want to finish by the end of this lab?]
 
 ### Sprint backlog
 | Issue | Task | Status |
